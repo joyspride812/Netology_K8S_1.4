@@ -18,6 +18,7 @@
 - curl http://172.16.20.43:30080
 <img width="1105" height="465" alt="image" src="https://github.com/user-attachments/assets/fe9e46bd-329f-4416-95d1-a5d2e56dfbcd" />
 ### Манифесты:
+
 - [deployment-multi-container.yaml]()
 - [service-clusterip.yaml]()
 - [service-nodeport.yaml]()
