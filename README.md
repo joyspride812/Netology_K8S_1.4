@@ -7,7 +7,7 @@
 - Внутри кластера через ClusterIP.
 - Снаружи через NodePort.
   
-### Скриншоты проверки доступа (curl или браузер).
+### Скриншоты проверки доступа (curl или браузер):
 
 - curl web-service:9001
 <img width="1164" height="475" alt="image" src="https://github.com/user-attachments/assets/56d39b4e-4e84-42cc-93c4-c397ed6c517d" />
