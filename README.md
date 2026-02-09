@@ -33,11 +33,11 @@
 <img width="1185" height="131" alt="image" src="https://github.com/user-attachments/assets/970c5dc0-84c7-484c-b0ea-9b26bddcd3d2" />
 
 ### Манифесты:
-- [backend.yaml]()
-- [frontend.yaml]()
-- [service-backend.yaml]()
-- [service-frontend.yaml]()
-- [ingress.yaml]()
+- [backend.yaml](https://github.com/joyspride812/Netology_K8S_1.4/blob/main/backend.yaml)
+- [frontend.yaml](https://github.com/joyspride812/Netology_K8S_1.4/blob/main/frontend.yaml)
+- [service-backend.yaml](https://github.com/joyspride812/Netology_K8S_1.4/blob/main/service-backend.yaml)
+- [service-frontend.yaml](https://github.com/joyspride812/Netology_K8S_1.4/blob/main/service-frontend.yaml)
+- [ingress.yaml](https://github.com/joyspride812/Netology_K8S_1.4/blob/main/ingress.yaml)
 
 
 
