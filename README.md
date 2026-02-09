@@ -25,11 +25,11 @@
 
 ## Задание 2: Развернуть два приложения (frontend и backend) и обеспечить доступ к ним через Ingress по разным путям.
 
-### Результат запроса curl http://<host>/
+### Результат запроса curl http://testapp.local/
 <img width="755" height="415" alt="image" src="https://github.com/user-attachments/assets/c553a6b1-58f2-48e3-928d-b40d53fb4bc6" />
 
 
-### Результат запроса curl http://<host>/api
+### Результат запроса curl http://testapp.local/api
 <img width="1185" height="131" alt="image" src="https://github.com/user-attachments/assets/970c5dc0-84c7-484c-b0ea-9b26bddcd3d2" />
 
 ### Манифесты:
